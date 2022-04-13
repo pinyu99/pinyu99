@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @pinyu99
-- 👀 I’m interested in ...data analysis
-- 🌱 I’m currently learning ...python and java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in data science and stock. 
+- 🌱 I’m currently learning ...ML, python and java.
 
 <!---
 pinyu99/pinyu99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
